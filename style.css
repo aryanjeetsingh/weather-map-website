@@ -1,0 +1,6 @@
+#wrapper {
+    border: 5px solid black;
+    position: fixed;
+    
+}
+#map { height: 100vh; }
